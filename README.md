@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  ## 🔭 Github Stats
+  ## 📈 Github Stats
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SanghyupTwo&show_icons=true&theme=tokyonight)
   
   ## 🌱 Tech Stack
