@@ -2,7 +2,7 @@
 
   ## 📈 Github Stats
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SanghyupTwo&show_icons=true&theme=tokyonight)
- 
+  ## 📝 Algorithm Skill
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dwc07238)](https://solved.ac/dwc0723/)
   
   ## 🌱 Tech Stack
