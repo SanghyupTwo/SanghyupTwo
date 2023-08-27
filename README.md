@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=코구리의 Github&fontSize=90" />
+<img src="[https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=코구리의 Github&fontSize=90](https://camo.githubusercontent.com/01ae3c6bdc744d376e5596bdcb9b1f7f8ee4f7911528541ebb564bd2985a2410/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d726f756e64656426636f6c6f723d74696d654175746f26746578743d526f756e646564253230776974682532307374726f6b6526666f6e74416c69676e593d353026666f6e7453697a653d3430266865696768743d323030267374726f6b653d303030303030267374726f6b6557696474683d32)" />
 
   ## 📈 Github Stats
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SanghyupTwo&show_icons=true&theme=tokyonight)
